@@ -1,0 +1,6 @@
+# Git Ignore -- Files that won't be loaded to the net
+
+## Admin Zone
+
+/.ignore*
+/.ignore
