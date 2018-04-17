@@ -37,10 +37,10 @@ nikolemaxwell.com and alertnikole.github.io [main]
 
 ### Fonts
 
-    font-family: 'Advent Pro', sans-serif;        (title) 
-    font-family: 'Philosopher', sans-serif;     (subtitles)
-    font-family: 'Raleway', sans-serif;  (default)
-    font-family: 'Mina', sans-serif;        (headings)
+    font-family: "Advent Pro", sans-serif;        (title) 
+    font-family: "Philosopher", sans-serif;     (subtitles)
+    font-family: "Raleway", sans-serif;  (default)
+    font-family: "Mina", sans-serif;        (headings)
 
 
 ### Colors
@@ -60,7 +60,7 @@ Future instances may be hosted on nikolemaxwell.com or .io pending site availabi
 
 Because the site is housed on GitHub it will be a pure **CSS/HTML and JavaScript** site giving an opportunity for me to highlight and use those skills.
 
-I'm going to make use of the nvy slider that I enhanced.
+I"m going to make use of the nvy slider that I enhanced.
 
 ### Code Editor
 My code editor of choice is always Microsofts Visual Studio Code.
@@ -69,32 +69,32 @@ My code editor of choice is always Microsofts Visual Studio Code.
 Training credits are always given where due:
 
 #### Awesome Reference Material
-- [W3Schools.com]('https://www.w3schools.com/')
-- [MDN Web Docs]('https://developer.mozilla.org/en-US/')
+- [W3Schools.com]("https://www.w3schools.com/")
+- [MDN Web Docs]("https://developer.mozilla.org/en-US/")
 
 #### Learning Credit
 
-- [FreeCodeCamp]('https://www.freecodecamp.org')
-- [Team TreeHouse]('https://teamtreehouse.com/home')
-- [Traversy Media](''https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA')
-- [PluralSight]('https://www.pluralsight.com')
+- [FreeCodeCamp]("https://www.freecodecamp.org")
+- [Team TreeHouse]("https://teamtreehouse.com/home")
+- [Traversy Media]("https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA")
+- [PluralSight]("https://www.pluralsight.com")
 
 #### Required Tools for Development Success
 
-- [Maxwell House Coffee]('http://www.kraftrecipes.com/maxwell-house.aspx')
-- [100DaysofCode Developers Challenge]('http://100daysofcode.com/')
-- [Visual Studio Code (and every single extension, linter, and theme that goes with it) ]('https://code.visualstudio.com/?)
-- [CodePen.io]('https://codepen.io/alertnikole/')
-- [Discord - where devs play]('discordapp.com)
-- [Slack - where work happens]('https://slack.com)
+- [Maxwell House Coffee]("http://www.kraftrecipes.com/maxwell-house.aspx")
+- [100DaysofCode Developers Challenge]("http://100daysofcode.com/")
+- [Visual Studio Code (and every single extension, linter, and theme that goes with it) ]("https://code.visualstudio.com")
+- [CodePen.io]("https://codepen.io/alertnikole/")
+- [Discord - where devs play]("discordapp.com")
+- [Slack - where work happens]("https://slack.com")
 
 
 ## Social
 alert(NiKoleSays) "Lets connect!"
 
-- [LinkedIn: nikolemaxwell]('linkedin/in/nikolemaxwell')
-- [GitHub: alertnikole]('https://github.com/alertnikole')
-- [Twitter: @alertnikole]('twitter.com/alertnikole')
-- [Instagram: @alertnikole](https://www.instagram.com/alertnikole/')
-- [Facebook]('facebook.com/nikole.maxwell.1)
+- [LinkedIn: nikolemaxwell]("linkedin/in/nikolemaxwell")
+- [GitHub: alertnikole]("https://github.com/alertnikole")
+- [Twitter: @alertnikole]("twitter.com/alertnikole")
+- [Instagram: @alertnikole]("https://www.instagram.com/alertnikole/")
+- [Facebook]("facebook.com/nikole.maxwell.1")
 
