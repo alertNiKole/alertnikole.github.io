@@ -1,0 +1,11 @@
+# Git Ignore -- Files that won't be loaded to the net
+
+## Admin Zone
+
+/src/.ignore*
+/src/.ignore
+
+
+## Temporary Hides
+
+/100-days-of-code.html

@@ -64,10 +64,11 @@ section borders:
     grid-row: 1/8;
     background: #292a2b;
     border-bottom: 2em inset #6efd7b49;
+    height: 100vh;
 }
  
 .bannerPic {
-    margin-top: -11em;
+
     grid-area: b;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -75,13 +76,14 @@ section borders:
     background-size: cover;
     opacity: .7;
     z-index: 76;
+    margin-top: -25em;
     /* border: 5px inset; */
     /* background-blend-mode: overlay; */
 }
 
 .bannerFace {
     border-radius: 25em;
-    margin-top: -8.7em;
+    margin-top: -22.7em;
     grid-area: b;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -99,7 +101,7 @@ section borders:
     font-family: 'Advent Pro', sans-serif;
     letter-spacing: 10px;
     float: right;
-    margin-top: 4.5em;
+    margin-top: 6.8em;
     margin-right: 5em;
     font-size: 5em;
     position: relative;
@@ -142,7 +144,6 @@ section borders:
     grid-column: 1/7;
     grid-row: 16/21;
     z-index: 50;
-    border: 1px solid rebeccapurple;
     margin-bottom: 1em;
 }
 
@@ -207,39 +208,53 @@ body {
 }
 
 #home {
-    font-family: 'Mina', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
     font-size: 2.2em;
-    margin: 1em 3em 0 -2.8em;
-    text-shadow: 1px 5px 10px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green;
+    margin: 1em 3em 0 -2.3em;
+    color: #585858;/*
+    color:#0ae6a4;
+	color: #368ccf;
+    text-shadow: 0px 3px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green; */
     width: max-content;
-    color: #585858;
-    color:white;
-    text-shadow: 1.2px 1.1px #0ae6a4, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135;
+   /* text-shadow: 1px 5px 10px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green; */
+    /*    text-shadow: 1.2px 1.1px #0ae6a4, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135; */
+    color: #0cbf78;
+
 }
 
 #about {
-    font-family: 'Mina', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
     font-size: 2.2em;
     margin-top: 1em;
-    color: white;
-    text-shadow: 1.2px 1.1px  #FF4B82, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135;
+/*
+    color: #12a164;
+    text-shadow: 0px 3px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green; */
+
+	color: #5a93bf;
+
+ /*   text-shadow: 1.2px 1.1px  #FF4B82, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135; */
 }
 
 #gallery {
-    font-family: 'Mina', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
     font-size: 2.2em;
-    margin: 1em 3em 0 -3.5em;
+    margin: 1em 3em 0 -2.7em;
     width: max-content;
     color: white;
-    text-shadow: 1.2px 1.1px #6f19f9, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135;
+ /*   color: #6f19f9; /*
+    text-shadow: 0px 3px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green; */
+  /*  text-shadow: 1.2px 1.1px #6f19f9, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135; */
+  color: #0cbf78;
 }
 
-#blog { 
-    font-family: 'Mina', sans-serif;
+#blog {    
+    font-family: 'Advent Pro', sans-serif;
     font-size: 2.2em;    
-    margin: 3.2em -2.15em 0em .1em;
-    color: white;
-    text-shadow: 1.2px 1.1px #02ff00, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135;
+ /*   text-shadow: 0px 3px #fffcfc, 1.3px 1.3px transparent, -1.2px -1.2px green; */
+/*    text-shadow: 1.2px 1.1px #02ff00, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777777, 0px 4px 0px #666, -2px 4px 0px #555, -2px 3px 0px #444, -2px 2px 0px #333, -3px 2px 7px #001135; */
+
+color: #5a93bf;
+
 }
 
 /*/     SECTION TITLES   /*/
@@ -276,8 +291,6 @@ body {
     padding-right: 25px;
     margin-left: 4em;
 }
-
-
 .aboutPic {
     background-image: url(../images/contact/alertNikole2.png);
     padding: 1em;
@@ -403,6 +416,7 @@ body {
     margin-left: 7%;
     padding: 3em 1em;
     border-radius: 2em;
+    margin-top: -5em;
 }
 
 .sliderMainTitle {
@@ -414,7 +428,6 @@ body {
     color: #6f19f9;
     font-variant: small-caps;
     margin-bottom: 1em;
-    margin-top: 2em;
 }
 
 .sliderInner {
