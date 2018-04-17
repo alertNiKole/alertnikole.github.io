@@ -12,9 +12,8 @@ let wordBlink = document.querySelectorAll(".wordFlash");
 
 console.log(wordBlink);
 
-
 //on hover
-
+/*
 let medium = document.querySelector("#mediumPop");
 
 medium.addEventListener("mouseover", () => {
@@ -27,4 +26,4 @@ medium.addEventListener("mouseover", () => {
         medium.removeEventListener;
 
     })
-});
+}); */

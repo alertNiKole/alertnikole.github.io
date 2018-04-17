@@ -86,7 +86,7 @@ Training credits are always given where due:
 - [Visual Studio Code (and every single extension, linter, and theme that goes with it) ]('https://code.visualstudio.com/?)
 - [CodePen.io]('https://codepen.io/alertnikole/')
 - [Discord - where devs play]('discordapp.com)
-- [Slack- where work happens]('https://slack.com)
+- [Slack - where work happens]('https://slack.com)
 
 
 ## Social

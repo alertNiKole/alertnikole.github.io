@@ -67,16 +67,18 @@ function wordFlash () {   //Word change
             selectWord.style.color = colors[colorChange];
             illuminate ++;
         }
-        console.log(colors[colorChange], "is the new color.");
+
     };
 
    wordFun();
    colorFunOne();
+   console.log("The function has run")
 
 };
 
-/*//
-setInterval(wordFlash, 2200);*/
+
+
+setInterval(wordFlash, 2200);
 
 //working --------> now work on making the function stop duplicating 
 
