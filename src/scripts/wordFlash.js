@@ -11,7 +11,10 @@ let words = [
     "Know()", 
     "Learn()", 
     "Connect()", 
-    "Develop()", 
+    "Develop()",
+    "Implement()",
+    "Succeed()",
+    "Process()",
     "Read()",  
     "HireMe()"
     ]
