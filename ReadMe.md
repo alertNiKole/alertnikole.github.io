@@ -1,10 +1,12 @@
-# alert("niKoleSays")
+!["alertNiKole Banner"](https://i.imgur.com/OVjuSeB.png)
+# alert(niKoleSays) GitHub Pages
 # What?
 The personal website of NiKole Maxwell.
 Business pages and resume will be available as a link out
 
 ## Avatar
-    ![alert(niKoleSays) Avatar](../src/images/contact/alertNiKole2.png)
+    !["alertNiKole Avatar"](../src/images/contact/alertNiKole2_trans.png)   
+    !["alertNiKole Avatar"](https://i.imgur.com/089Z3Yl.png)   
     My Bitmoji Avatar serves as the sites personality and key figurehead.
 
 ## About
