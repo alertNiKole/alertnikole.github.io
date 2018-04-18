@@ -4,8 +4,8 @@ The personal website of NiKole Maxwell.
 Business pages and resume will be available as a link out
 
 ## Avatar
-    ![alert(NiKoleSays) Avatar]](/src/images/contact/alertNiKole2.png)
-Format: ![Alt Text](url)My Bitmoji Avatar serves as the sites personality and key figurehead.
+    ![alert(niKoleSays) Avatar](../src/images/contact/alertNiKole2.png)
+    My Bitmoji Avatar serves as the sites personality and key figurehead.
 
 ## About
 My projects will focus on things like database reports, apis, fun and alternative ways to do "things".    
