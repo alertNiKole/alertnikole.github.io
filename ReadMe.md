@@ -5,7 +5,7 @@ The personal website of NiKole Maxwell.
 Business pages and resume will be available as a link out
 
 ## Avatar
-    !["alertNiKole Avatar"](../src/images/contact/alertNiKole2_trans.png)   
+    !["alertNiKole Avatar"](../src/images/contact/alertNiKoleT.png)   
     !["alertNiKole Avatar"](https://i.imgur.com/089Z3Yl.png)   
     My Bitmoji Avatar serves as the sites personality and key figurehead.
 
