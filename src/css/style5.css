@@ -55,15 +55,24 @@ section borders:
  
  /*/ SECTION DEFINITION /*/
  #sticky {
+     display: grid;
      grid-area: b;
      grid-column: 1/7;
      grid-row: 1/2;
      background: #292a2b;
+     height: 20vh;
+     position: fixed;
+     width: 100%;
+
  }
 
+
  #alertNiKole {
-    font-family: 'Advent Pro', sans-serif;
-    color: whitesmoke;
+        font-family: 'Advent Pro', sans-serif;
+	font-size: 1.5em;
+	color: #f5f5f5;
+	margin-left: 7em;
+	margin-top: 2em;
  }
 
  #alert {
@@ -76,6 +85,42 @@ section borders:
     font-weight: 300;
  }
 
+.stickyFace {
+    margin-top: -7em;
+	margin-left: 1em;
+	border-radius: 5em;
+    border: 5px double #00ff99;
+    position: sticky;
+    float: left;
+    margin-left: 7em;
+    margin-top: -9em;
+}
+
+.stickySocialTop {
+    display: flex;
+    float: right;
+	margin-top: 2em;
+	z-index: 2500;
+	margin-right: 1.5em;
+    opacity: .7;
+	font-size: 2em;
+	margin-left: 46em;
+    margin-top: 3em;
+    position: sticky;
+}
+
+.stickyFlash {
+    font-family: 'Advent Pro', sans-serif;
+    text-decoration: italic;
+    color: #ff4b82;
+	font-size: 2.5em;
+    margin-left: 10em;
+    margin-top: -1.5em;
+}
+
+
+
+/*  Banner   */
 .banner {
     grid-area: b;
     grid-column: 1/7;
@@ -135,8 +180,12 @@ section borders:
 }
 
 #insta {
-    max-width: 50px;
-    max-height: 50px;  
+    max-width: 52px;
+    max-height: 52px;  
+}
+
+#showDiscord {
+    width: 55px;    
 }
 
 .wordFlash {
@@ -643,9 +692,6 @@ img#activeImg {
     letter-spacing: 1em;
 }
 
-.blogInviteDesc {
-    
-}
 
 .blogLink a {
     text-decoration: none;

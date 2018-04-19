@@ -1,10 +1,18 @@
 [
     {
-        "day" : ,
-        "language" : ,
-        "provider" ;
-        "focus": ,
-        "hashtags": "@100DaysofCode @FreeCodeCamp #100DaysofCode #nikolemaxwell
-        #coders #codeLife #webDeveloper #getErDone"
+        "date" : "MM/DD/YYYY",
+        "day": "01 of 100",
+        "source": "Provider name ",
+        "type": "Type",
+        "subTitle": "SubTitle",
+        "tech used":  "js, css, html, sql, express, etc",
+        "screenshot_path": "path//", 
+        "description": "timeline description",
+        "avatar path": "avatar path//",        
+        "avatar css": "css",
+        "hashtags": "\@100DaysofCode @FreeCodeCamp \#100DaysofCode \#nikolemaxwell
+        \#coders \#codeLife \#webDeveloper \#getErDone"
+
     }
 ]
+
