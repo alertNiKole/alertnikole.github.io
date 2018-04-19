@@ -21,7 +21,16 @@ let words = [
 
 //array of randomized colors
 let colors = [
-  "#ff4b82",
+    "#02ff00",
+    "#00ff99",    
+    "#FFCC9560",
+    " #19f8d7",
+    "#FF4B82",
+    "#6ebffd",
+    "#585858",
+    "#fbff00"
+]
+ /* "#ff4b82",
   "#02ff00",
   "#0bd0e3",
   "#0be393",
@@ -32,8 +41,7 @@ let colors = [
   "#b8e30b",
   "#e30b0b",
   "#e30bab",
-  "#e3780b"
-]
+  "#e3780b" */
 
 
 //rng formula 
