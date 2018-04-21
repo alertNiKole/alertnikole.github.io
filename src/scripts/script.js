@@ -10,7 +10,19 @@ let wordBlink = document.querySelectorAll(".wordFlash");
 
 console.log(wordBlink);
 
-//socialTop
-/*on hover showSlack email
-   on hover show Discord   */
+//onscroll show sticky
+/*
+<element onscroll="myScript">
+object.onscroll = function(){myScript};
+object.addEventListener("scroll", myScript); */
+
+
+let banner = document.querySelector(".banner");
+let bannerHide = banner.style.display = "none";
+banner.onscroll = function(){
+  banner.style.display = "none";
+}
+
+
+//on click show sticky 
 

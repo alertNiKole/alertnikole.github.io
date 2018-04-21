@@ -1,4 +1,4 @@
-!["alertNiKole Banner"](https://i.imgur.com/OVjuSeB.png)
+!["alertNiKole Banner"](https://i.imgur.com/MLqim7o.png)
 # alert(niKoleSays) GitHub Pages
 # What?
 The personal website of NiKole Maxwell.
