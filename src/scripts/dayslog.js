@@ -19,7 +19,7 @@ let entry =  {
     dayCount,
     dayDate,
     daySubTitle, 
-    dayTyp,
+    dayType,
     daySource,
     dayTechUsed ,
     daysDescription,
