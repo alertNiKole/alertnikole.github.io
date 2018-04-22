@@ -30,13 +30,15 @@ let entry =  {
 const entry01 = Object.create(entry);
 
 
-
-//CREATE JSON
-
+//CREATE JSON ENTRY ---manual?
+         /* --> Use dayTemplate.js. reserver chronological order */
 
 
 //GET JSON
-        /* Path: 
+    let rawJSON = "/100days/100DaysLog.json";
+
+// Parse JSON
+        /* for each entry in the JSON, then do this insert 
 //CREATE new entry on HTML
 
 //SELECT Fields
