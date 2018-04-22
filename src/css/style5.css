@@ -136,7 +136,7 @@ body {
 
  /*/        Sticky  Header      /*/
  #sticky {
-	display: none;/*   change to grid on scroll  */
+	display: grid;/*   change to grid on scroll  */
 	grid-area: b;
 	grid-column: 1/7;
 	grid-row: 1/2;
@@ -957,7 +957,7 @@ clear: left;
     /*/  100 Days of Code /*/
 
     #daysWrapper{
-
+        display: none;
     }
 
     .innerWrapper {
