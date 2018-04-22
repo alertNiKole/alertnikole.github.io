@@ -952,3 +952,66 @@ clear: left;
         border-radius:.5em;
         padding: .3em;
     }
+
+
+    /*/  100 Days of Code /*/
+
+    #daysWrapper{
+
+    }
+
+    .innerWrapper {
+
+    }
+    .daysTitle {
+
+    }
+    .avatarWrapper {
+
+    }
+    .avatarOuter {
+
+    }
+    .avatar{
+
+    }
+    #mainAvatar  {
+
+    }
+    #mainAvatar img{
+
+    }
+
+    /*/Daily content/*/
+    .daysInfoWrapper {
+
+    }
+    .dayInsert {
+
+    }
+
+    #dayDay {
+
+    }
+    #dayCount {
+
+    }
+    .daySubTitle {
+
+    }
+
+    #dayType {
+
+    }
+
+    .daysSource {
+
+    }
+
+    .daysTechUsed {}
+
+    .daysDescription {}
+    
+    .daysCode {}
+    
+    #daysHash{}
