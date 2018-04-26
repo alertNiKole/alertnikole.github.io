@@ -51,6 +51,7 @@ section borders:
         'a a a a a a n'
         'g g g g g g n'
         'w w w w w w n'
+        'o o o o o o o '
         'f f f f f f f';
  }
  
@@ -83,7 +84,7 @@ section borders:
    grid-row: 14/21;
    z-index: 50;
    margin-bottom: 1em;
-   max-height: 100vh;
+
 
 }
 
@@ -95,9 +96,17 @@ section borders:
    margin: 1em;
 }
 
+#daysWrapper {
+    grid-area: o;
+    grid-column: 3/6;
+    grid-row: 25/35;
+    margin-left: -5em;
+    border: 5px inset #dda224;  
+}
+
 .contact {
    grid-column: 1/7;
-   grid-row: 21/30;
+   grid-row: 35/37;
    border: 5px inset #35a5fa;  
 }
 
@@ -106,7 +115,7 @@ section borders:
    background: orange;
    z-index: 50;
    grid-column: 1/7;
-   grid-row: 40/45;
+   grid-row: 37/40;
 }
 
 
@@ -690,9 +699,10 @@ img#activeImg {
 }
 
 .blogBanner {
-    display: none;
+
     background: tomato;
     padding: 2em 0 2em 0;
+    border:  25px double slategrey;
 }
 
 .blogConnect {
@@ -713,13 +723,6 @@ img#activeImg {
     text-decoration: none;
     color: #0ae6a4;
 }
-
-/*/     FOOTER      /*/
-
-.footer {
-    margin: 1em;
-}
-
 /*
 color: #02ff00;       neongreen 
 color: #00ff99;       green 
@@ -754,7 +757,6 @@ color: #585858;     grey
     color: #1b813c7d;
     margin: 1em 5em 5em 9em;
     padding: 50px 0;
-
 }
 
 .contactBox {
@@ -762,7 +764,7 @@ color: #585858;     grey
     margin-bottom: 1em;
 }
 
-.contactTitle{
+.contactTitle {
         font-size: 2.1em;
         float: left;
         clear: both;
@@ -785,7 +787,7 @@ float: left;
 clear: both;
 }
 
-h4.contactTraining{
+h4.contactTraining {
     padding-top: 100px;
 }
 
@@ -810,7 +812,6 @@ h4.contactTraining{
     margin-bottom: 10em;
     box-shadow: 1px 1px 25px black;
 }
-
 
 #udacity {  
     background-image: url(../images/contact/uda.png);
@@ -955,36 +956,67 @@ clear: left;
 
     /*/  100 Days of Code /*/
 
-    #daysWrapper{
-        display: none;
-    }
 
     .innerWrapper {
+        border: 1px inset greenyellow;  
 
     }
-    .daysTitle {
 
+ .daysTitle {
+        clear: both;
+        float: left;
+        color: #585858;
+        margin-left: 5em;
+        margin-top: 1em;
+        margin-bottom: 0;
+        font-size: 6em;
+        font-family: 'Advent Pro', sans-serif;
+        z-index: 750;
+        font-weight: 500;
     }
+
+    #daysTitle1 {
+
+        float: left;
+        clear: both;
+        position: relative;
+        color: #02ff00;
+        border: 1px inset #000;
+        font-size: 10em;
+        transform: rotateX(-181deg) rotateY(-171deg) rotateZ(163deg);
+        font-weight: 200;
+        box-sizing: content-box;
+        margin-left: 1.9em;
+        margin-top: .5em;
+        text-shadow: 1.2px 1.1px #0ae6a4, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+    }
+
     .avatarWrapper {
-
+        border: 1px inset greenyellow;  
     }
     .avatarOuter {
+        border: 1px inset greenyellow;  
 
     }
-    .avatar{
-
-    }
+    
     #mainAvatar  {
-
+        width: 325px;   
+        
     }
-    #mainAvatar img{
 
+    #mainAvatar img {
+            margin-top: -22em;
+            margin-left: 8em;
+            width: 275px;
+            border-radius: 18em;
+            margin-left: 9em;
     }
 
     /*/Daily content/*/
-    .daysInfoWrapper {
-
+    .daysInfoWrapper {       
+        border: 10px inset yellow;  
     }
+
     .dayInsert {
 
     }
@@ -1014,3 +1046,9 @@ clear: left;
     .daysCode {}
     
     #daysHash{}
+
+/*/     FOOTER      /*/
+
+.footer {
+    margin: 1em;
+}
