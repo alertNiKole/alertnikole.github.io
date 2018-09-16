@@ -699,8 +699,8 @@ img#activeImg {
 }
 
 .blogBanner {
-
-    background: tomato;
+    background: #ff634799;
+ /*  background: tomato; */
     padding: 2em 0 2em 0;
     border:  25px double slategrey;
 }
@@ -956,97 +956,7 @@ clear: left;
 
     /*/  100 Days of Code /*/
 
-
-    .innerWrapper {
-        border: 1px inset greenyellow;  
-
-    }
-
- .daysTitle {
-        clear: both;
-        float: left;
-        color: #585858;
-        margin-left: 5em;
-        margin-top: 1em;
-        margin-bottom: 0;
-        font-size: 6em;
-        font-family: 'Advent Pro', sans-serif;
-        z-index: 750;
-        font-weight: 500;
-    }
-
-    #daysTitle1 {
-
-        float: left;
-        clear: both;
-        position: relative;
-        color: #02ff00;
-        border: 1px inset #000;
-        font-size: 10em;
-        transform: rotateX(-181deg) rotateY(-171deg) rotateZ(163deg);
-        font-weight: 200;
-        box-sizing: content-box;
-        margin-left: 1.9em;
-        margin-top: .5em;
-        text-shadow: 1.2px 1.1px #0ae6a4, 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
-    }
-
-    .avatarWrapper {
-        border: 1px inset greenyellow;  
-    }
-    .avatarOuter {
-        border: 1px inset greenyellow;  
-
-    }
     
-    #mainAvatar  {
-        width: 325px;   
-        
-    }
-
-    #mainAvatar img {
-            margin-top: -22em;
-            margin-left: 8em;
-            width: 275px;
-            border-radius: 18em;
-            margin-left: 9em;
-    }
-
-    /*/Daily content/*/
-    .daysInfoWrapper {       
-        border: 10px inset yellow;  
-    }
-
-    .dayInsert {
-
-    }
-
-    #dayDay {
-
-    }
-    #dayCount {
-
-    }
-    .daySubTitle {
-
-    }
-
-    #dayType {
-
-    }
-
-    .daysSource {
-
-    }
-
-    .daysTechUsed {}
-
-    .daysDescription {}
-    
-    .daysCode {}
-    
-    #daysHash{}
-
 /*/     FOOTER      /*/
 
 .footer {

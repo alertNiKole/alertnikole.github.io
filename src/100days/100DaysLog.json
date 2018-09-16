@@ -1,0 +1,18 @@
+
+
+{
+    
+
+}
+    {
+        "dayCount" : "00",
+        "dayDate" : "Date",
+        "dayAvatarPath" : "path",
+        "daySubTitle" : "subTitle",
+        "dayType" :  ["project", "tutorial", "course"],
+        "daySource" :  ["FreeCodeCamp", "YouTube", "Traversy","FlatIron", "Udacity" ],
+        "dayTechUsed" : "tech list",
+        "daysDescription" : "description",
+        "daysCode" : "daysCode",
+        "daysHash" : "daysHash"
+    }
